@@ -5,6 +5,11 @@ using System;
 [Serializable]
 public static class GameVariables {
 
+    public static bool EnterLights;
+    
+   
+     // copied from AfterWar
+     
     public static bool SpawnPlayer = true;
 
     public static float Health = 100f;
@@ -50,5 +55,6 @@ public static class GameVariables {
 
     public static bool isTraveling = false;
 
+    
 
 }

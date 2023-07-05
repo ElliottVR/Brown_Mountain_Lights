@@ -91,7 +91,7 @@ Material:
     - EFFECT_EXTRA_TEX: 1
     - _AO: 2.18
     - _AlphaClipThreshold: 0.33
-    - _BaseLight: 0.562
+    - _BaseLight: 0.12
     - _BillboardKwToggle: 0
     - _BillboardShadowFade: 0.5
     - _BumpScale: 1
