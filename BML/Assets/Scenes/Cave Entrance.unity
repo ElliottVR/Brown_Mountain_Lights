@@ -881,7 +881,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 9bda53f131257504f8e2ba5809a9b8e2, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 5aaea2317b374ae4dac471fac4101591, type: 2}
+      objectReference: {fileID: 2100000, guid: 0ff5ca0fe21c2734bbdb0b43bd9d1596, type: 2}
     - target: {fileID: 919132149155446097, guid: 9bda53f131257504f8e2ba5809a9b8e2, type: 3}
       propertyPath: m_Name
       value: Babel Towers
@@ -954,7 +954,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 9bda53f131257504f8e2ba5809a9b8e2, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 5aaea2317b374ae4dac471fac4101591, type: 2}
+      objectReference: {fileID: 2100000, guid: 0ff5ca0fe21c2734bbdb0b43bd9d1596, type: 2}
     - target: {fileID: 919132149155446097, guid: 9bda53f131257504f8e2ba5809a9b8e2, type: 3}
       propertyPath: m_Name
       value: Babel Towers (4)
@@ -1967,7 +1967,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 9bda53f131257504f8e2ba5809a9b8e2, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 5aaea2317b374ae4dac471fac4101591, type: 2}
+      objectReference: {fileID: 2100000, guid: 0ff5ca0fe21c2734bbdb0b43bd9d1596, type: 2}
     - target: {fileID: 919132149155446097, guid: 9bda53f131257504f8e2ba5809a9b8e2, type: 3}
       propertyPath: m_Name
       value: Babel Towers (3)
@@ -2040,7 +2040,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 9bda53f131257504f8e2ba5809a9b8e2, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 5aaea2317b374ae4dac471fac4101591, type: 2}
+      objectReference: {fileID: 2100000, guid: 0ff5ca0fe21c2734bbdb0b43bd9d1596, type: 2}
     - target: {fileID: 919132149155446097, guid: 9bda53f131257504f8e2ba5809a9b8e2, type: 3}
       propertyPath: m_Name
       value: Babel Towers (1)
@@ -3383,7 +3383,7 @@ PrefabInstance:
     - target: {fileID: -6251330848715481668, guid: 5ca3cdc3b9dfc154a846f08931b297fe, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 1ce026a83818d75478bd61d0924e7aed, type: 2}
+      objectReference: {fileID: 2100000, guid: da6426a871f70f8408a880748233b250, type: 2}
     - target: {fileID: -5824510187379060028, guid: 5ca3cdc3b9dfc154a846f08931b297fe, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -4142,7 +4142,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 9bda53f131257504f8e2ba5809a9b8e2, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 5aaea2317b374ae4dac471fac4101591, type: 2}
+      objectReference: {fileID: 2100000, guid: 0ff5ca0fe21c2734bbdb0b43bd9d1596, type: 2}
     - target: {fileID: 919132149155446097, guid: 9bda53f131257504f8e2ba5809a9b8e2, type: 3}
       propertyPath: m_Name
       value: Babel Towers (2)
