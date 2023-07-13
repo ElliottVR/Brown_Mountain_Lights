@@ -5,6 +5,8 @@ using UnityEngine;
 public class BmlRandom : MonoBehaviour
 {
     public GameObject TimedIntroLight;
+    public float introAnimTime = 7f;
+    public float introSoundTime = 5f;
     public AudioSource EnterSound;
     public AudioSource SwitchSound;
 
@@ -121,9 +123,9 @@ public class BmlRandom : MonoBehaviour
 
     IEnumerator IntroLight()
     {
-        yield return new WaitForSeconds(7);
+        yield return new WaitForSeconds(introAnimTime);
         EnterSound.Play();
-        yield return new WaitForSeconds(5);
+        yield return new WaitForSeconds(introSoundTime);
         Destroy(TimedIntroLight);
         StartCoroutine(SpawnObjects());
     }

@@ -11,6 +11,7 @@ public class TriggerLights : MonoBehaviour
         if (other.tag == "Player")
         {
             ObjectToEnter.SetActive(true);
+            Debug.Log("BML incoming. . .");
         }
     }
 
